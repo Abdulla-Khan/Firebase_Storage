@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "468720151885",
+    "project_id": "storage-5c6fd",
+    "storage_bucket": "storage-5c6fd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:468720151885:android:f10c9a9f7c1a4f56dc9b04",
+        "android_client_info": {
+          "package_name": "com.example.fire_storage"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "468720151885-c09jlnkltbus9rbaca451ruum8pf60ut.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBYp65dQOFswGBLCvybP4x5qLcurY59kDk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "468720151885-c09jlnkltbus9rbaca451ruum8pf60ut.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
